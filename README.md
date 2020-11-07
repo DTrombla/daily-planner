@@ -14,5 +14,5 @@ The user can type whatever they like into the text area for each hour. To save t
 
 enjoy the planner! https://dtrombla.github.io/daily-planner/
 
-![Planner]()
-![Planner]()
+![Planner](https://github.com/DTrombla/images/blob/main/planner1.PNG)
+![Planner](https://github.com/DTrombla/images/blob/main/planner2.PNG)
