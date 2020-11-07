@@ -5,7 +5,6 @@ var dayContent = JSON.parse(localStorage.getItem("input"));
 if(dayContent === null){
     dayContent = ["","","","","","","","","","","",""];
 }
-
 for(i = 9; i < 22; i++){
     $("#"+i.toString()).html(dayContent[i-9])
     if(i === currentDay.getHours()){
